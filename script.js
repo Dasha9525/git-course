@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Привет из джавы скрипта</h1>'
